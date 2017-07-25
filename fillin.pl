@@ -1,7 +1,5 @@
-% Declarative Programming, Semester 2, 2016, Project2
+% Declarative Programming
 % Author Name : Min Gao
-% Student ID : 773090
-% UserName : ming1
 % Purpose : solve any fillin crossword puzzles
 % Version : 4
 % Date : 11, Oct, 2016
